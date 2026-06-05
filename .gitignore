@@ -1,0 +1,38 @@
+# .github
+# 위 copilot.instructions는 동기화 필요
+# .vscode
+# .gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Java / Gradle
+.gradle/
+build/
+out/
+*.class
+
+# Logs
+*.log
+
+# Data outputs
+data/output/
+
+# AI
+.codex
+.github
+AGENTS.md
