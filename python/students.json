@@ -1,0 +1,22 @@
+[
+  {
+    "name": "철수",
+    "score": 85,
+    "passed": true
+  },
+  {
+    "name": "민지",
+    "score": 40,
+    "passed": false
+  },
+  {
+    "name": "영희",
+    "score": 70,
+    "passed": true
+  },
+  {
+    "name": "하늘",
+    "score": 50,
+    "passed": false
+  }
+]
